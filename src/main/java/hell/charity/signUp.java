@@ -205,7 +205,8 @@ public class signUp extends javax.swing.JFrame {
 
     private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton2ActionPerformed
 
-    
+    //Takteng yan 
+    String tae;
 
     }//GEN-LAST:event_jButton2ActionPerformed
 

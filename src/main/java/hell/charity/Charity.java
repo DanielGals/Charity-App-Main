@@ -20,7 +20,8 @@ public class Charity {
        LoginFrame.pack(); 
        LoginFrame.setLocationRelativeTo(null);
      
-     
+     //Tae Si bradly
+     //asdasdas
         
         
     }
